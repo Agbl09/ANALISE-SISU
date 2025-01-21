@@ -1,4 +1,4 @@
-# ANALISE-SISU
+# ANÁLISE-SISU
 Este projeto realiza uma análise de dados utilizando Python sobre a planilha do SISU 2024, visando extrair insights relevantes sobre as inscrições e aprovações
 
 ---
