@@ -1,9 +1,9 @@
-# ANÁLISE-SISU
+# ✍ ANÁLISE-SISU
 Este projeto realiza uma análise de dados utilizando Python sobre a planilha do SISU 2024, visando extrair insights relevantes sobre as inscrições e aprovações
 
 ---
 
-## Sumário
+## 📑 Sumário
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
@@ -61,7 +61,7 @@ Para realizar a análise, execute o seguinte comando:
 - `--input`: Caminho para o arquivo de entrada (formato CSV)
 - `--output`: Caminho para o arquivo de saída (formato Excel)
 
-## Contribuição
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 1. Faça um fork do repositório
@@ -77,7 +77,7 @@ Contribuições são bem-vindas! Para contribuir:
    git push origin minha-feature
 5. Abra um pull request neste repositório
 
-## Licença
+## 📜 Licença
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
    Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
