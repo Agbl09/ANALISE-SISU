@@ -6,10 +6,10 @@ Este projeto realiza uma análise de dados utilizando Python sobre a planilha do
 ## 📑 Sumário
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
+- [Instalação](#instalacao)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Contribuição](#contribuicao)
+- [Licença](#licenca)
 
 ---
 
