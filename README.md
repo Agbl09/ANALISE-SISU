@@ -8,8 +8,8 @@ Este projeto realiza uma análise de dados utilizando Python sobre a planilha do
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#Contribuição)
-- [Licença](#Licença)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
 ---
 
