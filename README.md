@@ -13,7 +13,9 @@ O **ANALISE-SISU** é uma ferramenta desenvolvida para auxiliar na exploração 
 
 ---
 
-## 🛠️ Funcionalidades
+<div align="center">
+<h2>🛠️ Funcionalidades</h2>
+</div>
 
 - Leitura e processamento de dados em formato CSV.
 - Geração de relatórios em Excel com filtros e insights.
@@ -22,13 +24,16 @@ O **ANALISE-SISU** é uma ferramenta desenvolvida para auxiliar na exploração 
 
 ---
 
-## Instalação
+<div align="center">
+<h2>💻 Instalação</h2>
+</div>
 
-### Requisitos
+<h3>Requisitos</h3>
+
 - Python 3.8 ou superior.
 - Dependências.
 
-### Passos
+<h3>Passos</h3>
 
 1. Clone este repositório:
    ```bash
@@ -42,7 +47,9 @@ O **ANALISE-SISU** é uma ferramenta desenvolvida para auxiliar na exploração 
    ```bash
    pip install notebook pandas plotly jupyter nbformat
 
-## Uso
+<div align="center">
+<h2>🎯 Uso</h2>
+</div>
 
 **Executando o Script**
 
@@ -55,9 +62,12 @@ Para realizar a análise, execute o seguinte comando:
 - `--input`: Caminho para o arquivo de entrada (formato CSV)
 - `--output`: Caminho para o arquivo de saída (formato Excel)
 
-## 🤝 Contribuição
+<div align="center">
+<h2>🤝 Contribuição</h2>
 
 Contribuições são bem-vindas! Para contribuir:
+</div>
+
 1. Faça um fork do repositório
    
 2. Crie uma branch para sua feature ou correção:
@@ -71,7 +81,10 @@ Contribuições são bem-vindas! Para contribuir:
    git push origin minha-feature
 5. Abra um pull request neste repositório
 
-## 📜 Licença
+<div align="center">
+<h2>📜 Licença</h2>
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
    Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+   
+</div>
