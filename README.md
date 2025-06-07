@@ -71,7 +71,7 @@ Contribuições são bem-vindas! Para contribuir:
    git push origin minha-feature
 5. Abra um pull request neste repositório
 
-## Licença
+## 📜 Licença
    Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
 
    Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
