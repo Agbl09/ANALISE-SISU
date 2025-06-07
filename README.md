@@ -6,14 +6,14 @@ Este projeto realiza uma análise de dados utilizando Python sobre a planilha do
 ---
 
 <div align="center">
-<h2>Sobre o Projeto</h2>
+<h2>🚀 Sobre o Projeto</h2>
 
 O **ANALISE-SISU** é uma ferramenta desenvolvida para auxiliar na exploração e análise dos dados relacionados ao Sistema de Seleção Unificada (SISU). Com este projeto, é possível gerar relatórios e visualizar informações que facilitam o entendimento das tendências do processo seletivo.
 </div>
 
 ---
 
-## Funcionalidades
+## 🛠️ Funcionalidades
 
 - Leitura e processamento de dados em formato CSV.
 - Geração de relatórios em Excel com filtros e insights.
@@ -55,7 +55,7 @@ Para realizar a análise, execute o seguinte comando:
 - `--input`: Caminho para o arquivo de entrada (formato CSV)
 - `--output`: Caminho para o arquivo de saída (formato Excel)
 
-## Contribuição
+## 🤝 Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 1. Faça um fork do repositório
